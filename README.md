@@ -8,7 +8,7 @@ WinampTify is a homage to the classic Winamp player, reimagined for today's digi
 ## Design
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/febriangilang/winamptify/master/design.png)
 ## Features
 
 -Integrates with Spotify to enable access to a vast array of music.
@@ -26,5 +26,6 @@ WinampTify is a homage to the classic Winamp player, reimagined for today's digi
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Login Screenshot](https://raw.githubusercontent.com/febriangilang/winamptify/master/screen1.jpeg)
+![App Player Screenshot](https://raw.githubusercontent.com/febriangilang/winamptify/master/screen2.jpeg)
 
