@@ -24,6 +24,6 @@ WinampTify is a homage to the classic Winamp player, reimagined for today's digi
 
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/febriangilang/winamptify/master/screen1.jpeg" width="200" height="550">
-<img src="https://raw.githubusercontent.com/febriangilang/winamptify/master/screen2.jpeg" width="200" height="550">
+<img src="https://raw.githubusercontent.com/febriangilang/winamptify/master/screen1.jpeg" width="250" height="550">
+<img src="https://raw.githubusercontent.com/febriangilang/winamptify/master/screen2.jpeg" width="250" height="550">
 
